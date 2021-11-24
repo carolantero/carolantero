@@ -1,6 +1,6 @@
 ### Hi! I'm Carolina Antero
 - ⚡ Front-end and Back-end
-- 💡 Study React and SQL
+- 💡 Studying React and SQL
 
 ##
 
