@@ -1,6 +1,6 @@
 ### Hi! I'm Carolina Antero
 - ⚡ Front-end and Back-end
-- 💡 Studying C#, React and SQL
+- 💡 JavaScript, Python, React, CSS, HTML, API REST, SQL Server, Azure, microsserviços e a metodologia ágil Scrum
 
 ##
 
