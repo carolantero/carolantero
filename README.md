@@ -1,6 +1,6 @@
 ### Hi! I'm Carolina Antero
 - ⚡ Front-end and Back-end
-- 💡 JavaScript, Python, React, CSS, HTML, API REST, Redux, SQL Server, Azure, microsserviços e a metodologia ágil Scrum
+- 💡 JavaScript, Python, React, CSS, HTML, REST API, Redux, SQL Server.
 
 ##
 
@@ -12,18 +12,8 @@
 
   ##
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Carol-Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"> 
-</div>
-  
-  ##
-  
 <div>
-  <a href="https://www.linkedin.com/in/carolina-antero-222077165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/carolinaantero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:carolina.antero.santos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div> 
 
